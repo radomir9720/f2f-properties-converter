@@ -2,7 +2,7 @@
   "name": "f2f-properties-converter",
   "displayName": "Figma to Flutter Properties Converter",
   "description": "Converts Colors, TextStyles, BorderRadius, etc. from Figma to Flutter format",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.66.0"
   },
