@@ -1,6 +1,6 @@
 # Figma to Flutter Properties Converter
 
-Converts text style properties, colors, border radius, etc. from **Figma** to **Flutter** format(`Color`, `TextStyle`, `BorderRadius`)
+Extension for [VSCode](https://code.visualstudio.com/), which converts text style properties, colors, border radius, etc. from **Figma** to **Flutter** format(`Color`, `TextStyle`, `BorderRadius`)
 
 <img src="https://raw.githubusercontent.com/radomir9720/f2f-properties-converter/main/doc/images/f2f_header_demo.png"/>
 
@@ -9,6 +9,9 @@ You can convert properties in two ways:
 2. Select `Figma`-formatted parameters in your `Flutter` project, and press `CMD+SHIFT+G`(for Mac) or `CTRL+SHIFT+G`(other platforms).
 
 Shortcuts can be changed in the settings, of course. Also, you can use command palette to run the commands above.
+
+## Installation
+[Install from the Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=radomir9720.f2f-properties-converter) or by [searching within VS Code](https://code.visualstudio.com/docs/editor/extension-marketplace#_search-for-an-extension).
 
 ## Features
 
