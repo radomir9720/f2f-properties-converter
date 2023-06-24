@@ -31,7 +31,7 @@ export const rgbToHexColorConverter: PropertyConverter = {
     ),
 };
 
-function rgbaToHex(value: string, float = false): string {
+export function rgbaToHex(value: string, float = false): string {
   let converted: number;
   if (float) {
     converted = Math.round(parseFloat(value) * 255);

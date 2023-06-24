@@ -78,12 +78,12 @@ export function activate(context: vscode.ExtensionContext) {
 
 const converters: PropertyConverter[] = [
   textStyleConverter,
-	fontLineHeightConverter,
-	fontLetterSpacingConverter,
+  fontLineHeightConverter,
+  fontLetterSpacingConverter,
   fontFamilyConverter,
   fontStyleConverter,
-	fontSizeConverter,
-	fontWeightConverter,
+  fontSizeConverter,
+  fontWeightConverter,
   rgbToHexColorConverter,
   hex8SymbolColorConverter,
   hex6SymbolColorConverter,
